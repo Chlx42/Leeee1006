@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Leeee1006&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Writing%20the%20world,%20line%20by%20line.&descAlignY=55&descAlign=50" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Li Xuan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Writing%20the%20world,%20line%20by%20line.&descAlignY=55&descAlign=50" width="100%" alt="header" />
   
   <br/>
   
-  <h3><i>"In the silence of logic, I build cathedrals of code."</i></h3>
-  <p>吉林大学 · 软件工程 · Java 后端探索者</p>
+  <h3><i>"Build things that excite me"</i></h3>
+  <p>Developer / Designer / Guitarist</p>
 
   <br/>
 </div>
@@ -13,12 +13,7 @@
 
 ### 📜 About Me
 
-我不仅仅是一名 Coder，更是一名**架构的思考者**。
-在追寻顶尖互联网技术的道路上，我着迷于 **Java 并发** 的精密调度，也沉醉于 **算法** 的优雅解法。
-
-- 🔭 **Current Focus:** 深入 JVM 底层肌理，构建高可用的分布式系统。
-- 🌱 **Learning:** 探寻计算机体系结构的奥秘。
-- 💬 **Motto:** 极致的简洁，即是复杂的最高级。
+- 🔭 **Current Focus:** Java Backend
 
 ---
 
@@ -26,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,linux,docker,git,idea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,cppspring,mysql,redis,linux,docker,git,idea&theme=light" />
   </a>
 </div>
 
