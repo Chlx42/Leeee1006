@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Build+things+that+excite+me;Writing+my+world+line+by+line" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Build+things+that+excite+me" alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
   <h3>📊</h3>
-  <img src="https://github.com/Leeee1006/Leeee1006/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/Chlx42/Chlx42/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 [lang-java]: https://img.shields.io/badge/-Java-000?style=flat-square&logoColor=white&logo=openjdk
