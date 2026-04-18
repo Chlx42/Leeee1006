@@ -16,8 +16,8 @@
   <a href="https://blog.csdn.net/qq_38901232">
     <img src="https://img.shields.io/badge/-CSDN-black?labelColor=black&logo=csdn&logoColor=white&style=flat-square" alt="CSDN">
   </a>
-    <a href="https://lixuan.live">
-    <img src="https://lixuan.live/_astro/avatar.DmV93AbX_1YmFn7.webp" alt="我的博客">
+<a href="https://lixuan.live">
+    <img src="https://img.shields.io/badge/-Blog-black?labelColor=black&logo=astro&logoColor=white&style=flat-square" alt="我的博客">
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-### 💫 Tech Stack
+<!-- ### 💫 Tech Stack
 
 | Domain           | Skills                                                                |
 | :--------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -73,3 +73,5 @@
 [ide-idea]: https://img.shields.io/badge/-IntelliJ_IDEA-000?style=flat-square&logoColor=white&logo=intellijidea
 [ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
 [tool-postman]: https://img.shields.io/badge/-Postman-000?style=flat-square&logoColor=white&logo=postman
+-->
+
