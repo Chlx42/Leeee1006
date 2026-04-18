@@ -16,6 +16,9 @@
   <a href="https://blog.csdn.net/qq_38901232">
     <img src="https://img.shields.io/badge/-CSDN-black?labelColor=black&logo=csdn&logoColor=white&style=flat-square" alt="CSDN">
   </a>
+    <a href="https://lixuan.live">
+    <img src="https://lixuan.live/_astro/avatar.DmV93AbX_1YmFn7.webp" alt="我的博客">
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="split">
